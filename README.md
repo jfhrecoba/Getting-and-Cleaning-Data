@@ -1,4 +1,5 @@
-# Getting-and-Cleaning-Data Course Project
+Getting-and-Cleaning-Data Course Project
+
 ## 1.Merges the training and the test sets to create one data set
 * training_set:Traning set.
 * test_set:Test set.
